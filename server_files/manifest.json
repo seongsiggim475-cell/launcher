@@ -1,0 +1,9 @@
+{
+  "files": [
+    {
+      "path": "mods/example.jar",
+      "url": "files/mods/example.jar",
+      "sha256": "여기에_SHA256"
+    }
+  ]
+}
