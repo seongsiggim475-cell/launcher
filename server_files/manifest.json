@@ -1,9 +1,86 @@
-{
-  "files": [
-    {
-      "path": "mods/example.jar",
-      "url": "files/mods/example.jar",
-      "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B"
-    }
-  ]
+﻿{
+    "format":  1,
+    "createdUtc":  "2026-02-06T05:42:24.9978750Z",
+    "files":  [
+                  {
+                      "path":  "mods/architectury-13.0.8-fabric.jar",
+                      "sha256":  "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
+                      "size":  600915
+                  },
+                  {
+                      "path":  "mods/armourersworkshop-fabric-1.21.1-3.2.7-beta.jar",
+                      "sha256":  "069584a5b3075bdf7ca53136c5db1844e6253487c3140205b2ed25ac442b4ddf",
+                      "size":  6218149
+                  },
+                  {
+                      "path":  "mods/coolrain-1.3.1-1.21.1.jar",
+                      "sha256":  "c4e3d4771f19bcf3f20ccfa3d9962e8708dd8ba966cd1aa5cdf8fbc814db47e7",
+                      "size":  3128333
+                  },
+                  {
+                      "path":  "mods/CraftTweaker-fabric-1.21.1-21.0.35.jar",
+                      "sha256":  "838126c6f00b8a50db57f45e7742b4d37f070f66d52a882717aa705c8c8717cc",
+                      "size":  4175713
+                  },
+                  {
+                      "path":  "mods/fabric-api-0.116.7+1.21.1.jar",
+                      "sha256":  "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+                      "size":  2424884
+                  },
+                  {
+                      "path":  "mods/FarmersDelight-1.21.1-3.2.2+refabricated.jar",
+                      "sha256":  "5c69dd8c95c66f78f6f5c3a7c28fa9d92a8ef149ec4b68e46588321fef78d143",
+                      "size":  3129714
+                  },
+                  {
+                      "path":  "mods/framework-fabric-1.21.1-0.13.10.jar",
+                      "sha256":  "48301b8ad23f00f3eb1ae53bbe6f06a66ceb231fb36e77265dfeb430e13ef052",
+                      "size":  1647832
+                  },
+                  {
+                      "path":  "mods/iris-fabric-1.8.8+mc1.21.1.jar",
+                      "sha256":  "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
+                      "size":  2690177
+                  },
+                  {
+                      "path":  "mods/jei-1.21.1-fabric-19.27.0.340.jar",
+                      "sha256":  "80c35be9e42fca71eca577e538336902547c1fe3f5adedb2b79546ab01f66bbf",
+                      "size":  1561711
+                  },
+                  {
+                      "path":  "mods/journeymap-fabric-1.21.1-6.0.0-beta.53.jar",
+                      "sha256":  "5a6ff640d2232386da69c0811487c22cd80442761415ba87711331e06f13ed6e",
+                      "size":  3565471
+                  },
+                  {
+                      "path":  "mods/koreanpatch-fabric-1.9.5+mc1.21.jar",
+                      "sha256":  "1e6eace213df2a622b31b6bbd00ad126a96ddb38bad66849417790e23a58ad67",
+                      "size":  589768
+                  },
+                  {
+                      "path":  "mods/lithosphere-1.3.jar",
+                      "sha256":  "1f0cd68263933363833d32c23dd68e9fed219417bb562789ff45b8baaa27d3dc",
+                      "size":  526509
+                  },
+                  {
+                      "path":  "mods/OctoLib-FABRIC-0.6.0.4+1.21.jar",
+                      "sha256":  "067c13ed88fe11e801aaefbbc38aad5b00bda51aafe6b88d3f114eda009a25f5",
+                      "size":  506830
+                  },
+                  {
+                      "path":  "mods/Perception-FABRIC-0.1.6+1.21.1.jar",
+                      "sha256":  "72cccf9b2d97444f2d697f6fe157fbe928afd9114d02d90cca74a0ba3bef91d5",
+                      "size":  68031
+                  },
+                  {
+                      "path":  "mods/refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+                      "sha256":  "ccf5a4b585c41b9e629aedceb269e01b7488708f5440351e4a6862903dfe8ef4",
+                      "size":  6965259
+                  },
+                  {
+                      "path":  "mods/sodium-fabric-0.6.13+mc1.21.1.jar",
+                      "sha256":  "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+                      "size":  1297761
+                  }
+              ]
 }
